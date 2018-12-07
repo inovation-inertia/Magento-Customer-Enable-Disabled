@@ -1,4 +1,4 @@
-# Magento-Customer-Enable-Disabled
+# Magento-Customer-Approved-DisApproved
 Point 1.
 Create a Custom Attribute is_approve for Approved and Disapprove Functionality 
 
